@@ -1,0 +1,13 @@
+{
+  "index": "pikes",
+  "type": "Weapons",
+  "name": "Pikes",
+  "classes": [],
+  "races": [],
+  "url": "/api/2014/proficiencies/pikes",
+  "reference": {
+    "index": "pike",
+    "name": "Pike",
+    "url": "/api/2014/equipment/pike"
+  }
+}

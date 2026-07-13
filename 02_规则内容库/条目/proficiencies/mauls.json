@@ -1,0 +1,13 @@
+{
+  "index": "mauls",
+  "type": "Weapons",
+  "name": "Mauls",
+  "classes": [],
+  "races": [],
+  "url": "/api/2014/proficiencies/mauls",
+  "reference": {
+    "index": "maul",
+    "name": "Maul",
+    "url": "/api/2014/equipment/maul"
+  }
+}

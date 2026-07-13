@@ -1,0 +1,47 @@
+# 装备类别索引
+
+- 条目数：39
+- 结构化来源：`5e-SRD-Equipment-Categories.json`
+- 条目正文保持英文原始数据，以避免翻译改变规则数值；对外输出时可翻译，但结算以原字段为准。
+
+## 条目
+
+- [Adventuring Gear](../条目/equipment-categories/adventuring-gear.json)
+- [Ammunition](../条目/equipment-categories/ammunition.json)
+- [Arcane Foci](../条目/equipment-categories/arcane-foci.json)
+- [Armor](../条目/equipment-categories/armor.json)
+- [Artisan's Tools](../条目/equipment-categories/artisans-tools.json)
+- [Druidic Foci](../条目/equipment-categories/druidic-foci.json)
+- [Equipment Packs](../条目/equipment-categories/equipment-packs.json)
+- [Gaming Sets](../条目/equipment-categories/gaming-sets.json)
+- [Heavy Armor](../条目/equipment-categories/heavy-armor.json)
+- [Holy Symbols](../条目/equipment-categories/holy-symbols.json)
+- [Kits](../条目/equipment-categories/kits.json)
+- [Land Vehicles](../条目/equipment-categories/land-vehicles.json)
+- [Light Armor](../条目/equipment-categories/light-armor.json)
+- [Martial Melee Weapons](../条目/equipment-categories/martial-melee-weapons.json)
+- [Martial Ranged Weapons](../条目/equipment-categories/martial-ranged-weapons.json)
+- [Martial Weapons](../条目/equipment-categories/martial-weapons.json)
+- [Medium Armor](../条目/equipment-categories/medium-armor.json)
+- [Melee Weapons](../条目/equipment-categories/melee-weapons.json)
+- [Mounts and Other Animals](../条目/equipment-categories/mounts-and-other-animals.json)
+- [Mounts and Vehicles](../条目/equipment-categories/mounts-and-vehicles.json)
+- [Musical Instruments](../条目/equipment-categories/musical-instruments.json)
+- [Other Tools](../条目/equipment-categories/other-tools.json)
+- [Potion](../条目/equipment-categories/potion.json)
+- [Ranged Weapons](../条目/equipment-categories/ranged-weapons.json)
+- [Ring](../条目/equipment-categories/ring.json)
+- [Rod](../条目/equipment-categories/rod.json)
+- [Scroll](../条目/equipment-categories/scroll.json)
+- [Shields](../条目/equipment-categories/shields.json)
+- [Simple Melee Weapons](../条目/equipment-categories/simple-melee-weapons.json)
+- [Simple Ranged Weapons](../条目/equipment-categories/simple-ranged-weapons.json)
+- [Simple Weapons](../条目/equipment-categories/simple-weapons.json)
+- [Staff](../条目/equipment-categories/staff.json)
+- [Standard Gear](../条目/equipment-categories/standard-gear.json)
+- [Tack, Harness, and Drawn Vehicles](../条目/equipment-categories/tack-harness-and-drawn-vehicles.json)
+- [Tools](../条目/equipment-categories/tools.json)
+- [Wand](../条目/equipment-categories/wand.json)
+- [Waterborne Vehicles](../条目/equipment-categories/waterborne-vehicles.json)
+- [Weapon](../条目/equipment-categories/weapon.json)
+- [Wondrous Items](../条目/equipment-categories/wondrous-items.json)

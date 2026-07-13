@@ -1,0 +1,13 @@
+{
+  "index": "viol",
+  "type": "Musical Instruments",
+  "name": "Viol",
+  "classes": [],
+  "races": [],
+  "url": "/api/2014/proficiencies/viol",
+  "reference": {
+    "index": "viol",
+    "name": "Viol",
+    "url": "/api/2014/equipment/viol"
+  }
+}

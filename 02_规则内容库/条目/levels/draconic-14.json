@@ -1,0 +1,22 @@
+{
+  "level": 14,
+  "features": [
+    {
+      "index": "dragon-wings",
+      "name": "Dragon Wings",
+      "url": "/api/2014/features/dragon-wings"
+    }
+  ],
+  "class": {
+    "index": "sorcerer",
+    "name": "Sorcerer",
+    "url": "/api/2014/classes/sorcerer"
+  },
+  "subclass": {
+    "index": "draconic",
+    "name": "Draconic",
+    "url": "/api/2014/subclasses/draconic"
+  },
+  "url": "/api/2014/subclasses/draconic/levels/14",
+  "index": "draconic-14"
+}

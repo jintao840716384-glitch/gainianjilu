@@ -1,0 +1,29 @@
+{
+  "index": "daggers",
+  "type": "Weapons",
+  "name": "Daggers",
+  "classes": [
+    {
+      "index": "druid",
+      "name": "Druid",
+      "url": "/api/2014/classes/druid"
+    },
+    {
+      "index": "sorcerer",
+      "name": "Sorcerer",
+      "url": "/api/2014/classes/sorcerer"
+    },
+    {
+      "index": "wizard",
+      "name": "Wizard",
+      "url": "/api/2014/classes/wizard"
+    }
+  ],
+  "races": [],
+  "url": "/api/2014/proficiencies/daggers",
+  "reference": {
+    "index": "dagger",
+    "name": "Dagger",
+    "url": "/api/2014/equipment/dagger"
+  }
+}

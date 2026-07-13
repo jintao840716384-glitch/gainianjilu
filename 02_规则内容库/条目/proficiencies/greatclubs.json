@@ -1,0 +1,13 @@
+{
+  "index": "greatclubs",
+  "type": "Weapons",
+  "name": "Greatclubs",
+  "classes": [],
+  "races": [],
+  "url": "/api/2014/proficiencies/greatclubs",
+  "reference": {
+    "index": "greatclub",
+    "name": "Greatclub",
+    "url": "/api/2014/equipment/greatclub"
+  }
+}
