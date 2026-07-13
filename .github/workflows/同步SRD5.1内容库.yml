@@ -8,6 +8,12 @@ on:
     paths:
       - "tools/同步_srd51.py"
       - ".github/workflows/同步SRD5.1内容库.yml"
+  pull_request:
+    branches:
+      - main
+    paths:
+      - "tools/同步_srd51.py"
+      - ".github/workflows/同步SRD5.1内容库.yml"
 
 permissions:
   contents: write
@@ -15,10 +21,13 @@ permissions:
 jobs:
   sync:
     runs-on: ubuntu-latest
+    env:
+      TARGET_BRANCH: ${{ github.head_ref || github.ref_name }}
     steps:
-      - name: 检出仓库
+      - name: 检出目标分支
         uses: actions/checkout@v4
         with:
+          ref: ${{ env.TARGET_BRANCH }}
           fetch-depth: 0
 
       - name: 设置Python
@@ -39,4 +48,4 @@ jobs:
             exit 0
           fi
           git commit -m "同步 SRD 5.1 内容数据库"
-          git push
+          git push origin "HEAD:${TARGET_BRANCH}"
