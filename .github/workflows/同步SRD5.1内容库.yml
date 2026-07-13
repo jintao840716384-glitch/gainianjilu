@@ -1,0 +1,42 @@
+name: 同步SRD 5.1内容库
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - "tools/同步_srd51.py"
+      - ".github/workflows/同步SRD5.1内容库.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 检出仓库
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: 设置Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: 生成内容库
+        run: python "tools/同步_srd51.py"
+
+      - name: 提交生成结果
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add "02_规则内容库"
+          if git diff --cached --quiet; then
+            echo "内容库没有变化"
+            exit 0
+          fi
+          git commit -m "同步 SRD 5.1 内容数据库"
+          git push
