@@ -1,0 +1,13 @@
+{
+  "index": "leather-armor",
+  "type": "Armor",
+  "name": "Leather Armor",
+  "classes": [],
+  "races": [],
+  "url": "/api/2014/proficiencies/leather-armor",
+  "reference": {
+    "index": "leather-armor",
+    "name": "Leather Armor",
+    "url": "/api/2014/equipment/leather-armor"
+  }
+}

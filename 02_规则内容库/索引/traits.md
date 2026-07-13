@@ -1,0 +1,46 @@
+# 种族特性索引
+
+- 条目数：38
+- 结构化来源：`5e-SRD-Traits.json`
+- 条目正文保持英文原始数据，以避免翻译改变规则数值；对外输出时可翻译，但结算以原字段为准。
+
+## 条目
+
+- [Artificer's Lore](../条目/traits/artificers-lore.json)
+- [Brave](../条目/traits/brave.json)
+- [Breath Weapon](../条目/traits/breath-weapon.json)
+- [Damage Resistance](../条目/traits/damage-resistance.json)
+- [Darkvision](../条目/traits/darkvision.json)
+- [Draconic Ancestry](../条目/traits/draconic-ancestry.json)
+- [Draconic Ancestry (Black)](../条目/traits/draconic-ancestry-black.json)
+- [Draconic Ancestry (Blue)](../条目/traits/draconic-ancestry-blue.json)
+- [Draconic Ancestry (Brass)](../条目/traits/draconic-ancestry-brass.json)
+- [Draconic Ancestry (Bronze)](../条目/traits/draconic-ancestry-bronze.json)
+- [Draconic Ancestry (Copper)](../条目/traits/draconic-ancestry-copper.json)
+- [Draconic Ancestry (Gold)](../条目/traits/draconic-ancestry-gold.json)
+- [Draconic Ancestry (Green)](../条目/traits/draconic-ancestry-green.json)
+- [Draconic Ancestry (Red)](../条目/traits/draconic-ancestry-red.json)
+- [Draconic Ancestry (Silver)](../条目/traits/draconic-ancestry-silver.json)
+- [Draconic Ancestry (White)](../条目/traits/draconic-ancestry-white.json)
+- [Dwarven Combat Training](../条目/traits/dwarven-combat-training.json)
+- [Dwarven Resilience](../条目/traits/dwarven-resilience.json)
+- [Dwarven Toughness](../条目/traits/dwarven-toughness.json)
+- [Elf Weapon Training](../条目/traits/elf-weapon-training.json)
+- [Extra Language](../条目/traits/extra-language.json)
+- [Fey Ancestry](../条目/traits/fey-ancestry.json)
+- [Gnome Cunning](../条目/traits/gnome-cunning.json)
+- [Halfling Nimbleness](../条目/traits/halfling-nimbleness.json)
+- [Hellish Resistance](../条目/traits/hellish-resistance.json)
+- [High Elf Cantrip](../条目/traits/high-elf-cantrip.json)
+- [Infernal Legacy](../条目/traits/infernal-legacy.json)
+- [Keen Senses](../条目/traits/keen-senses.json)
+- [Lucky](../条目/traits/lucky.json)
+- [Menacing](../条目/traits/menacing.json)
+- [Naturally Stealthy](../条目/traits/naturally-stealthy.json)
+- [Relentless Endurance](../条目/traits/relentless-endurance.json)
+- [Savage Attacks](../条目/traits/savage-attacks.json)
+- [Skill Versatility](../条目/traits/skill-versatility.json)
+- [Stonecunning](../条目/traits/stonecunning.json)
+- [Tinker](../条目/traits/tinker.json)
+- [Tool Proficiency](../条目/traits/tool-proficiency.json)
+- [Trance](../条目/traits/trance.json)

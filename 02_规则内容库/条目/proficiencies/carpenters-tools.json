@@ -1,0 +1,13 @@
+{
+  "index": "carpenters-tools",
+  "type": "Artisan's Tools",
+  "name": "Carpenter's Tools",
+  "classes": [],
+  "races": [],
+  "url": "/api/2014/proficiencies/carpenters-tools",
+  "reference": {
+    "index": "carpenters-tools",
+    "name": "Carpenter's Tools",
+    "url": "/api/2014/equipment/carpenters-tools"
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "schema_version": 1,
+  "ruleset": "D&D 5e (2014)",
+  "baseline": "SRD 5.1",
+  "generated_at_utc": "2026-07-13T12:21:15+00:00",
+  "official_srd": "https://media.wizards.com/2023/downloads/dnd/SRD_CC_v5.1.pdf",
+  "structured_data_source": "https://github.com/5e-bits/5e-database",
+  "categories": {
+    "ability-scores": {
+      "display_name": "能力值",
+      "source_file": "5e-SRD-Ability-Scores.json",
+      "count": 6,
+      "index": "索引/ability-scores.md",
+      "entry_directory": "条目/ability-scores"
+    },
+    "alignments": {
+      "display_name": "阵营",
+      "source_file": "5e-SRD-Alignments.json",
+      "count": 9,
+      "index": "索引/alignments.md",
+      "entry_directory": "条目/alignments"
+    },
+    "backgrounds": {
+      "display_name": "背景",
+      "source_file": "5e-SRD-Backgrounds.json",
+      "count": 1,
+      "index": "索引/backgrounds.md",
+      "entry_directory": "条目/backgrounds"
+    },
+    "classes": {
+      "display_name": "职业",
+      "source_file": "5e-SRD-Classes.json",
+      "count": 12,
+      "index": "索引/classes.md",
+      "entry_directory": "条目/classes"
+    },
+    "conditions": {
+      "display_name": "状态",
+      "source_file": "5e-SRD-Conditions.json",
+      "count": 15,
+      "index": "索引/conditions.md",
+      "entry_directory": "条目/conditions"
+    },
+    "damage-types": {
+      "display_name": "伤害类型",
+      "source_file": "5e-SRD-Damage-Types.json",
+      "count": 13,
+      "index": "索引/damage-types.md",
+      "entry_directory": "条目/damage-types"
+    },
+    "equipment-categories": {
+      "display_name": "装备类别",
+      "source_file": "5e-SRD-Equipment-Categories.json",
+      "count": 39,
+      "index": "索引/equipment-categories.md",
+      "entry_directory": "条目/equipment-categories"
+    },
+    "equipment": {
+      "display_name": "装备",
+      "source_file": "5e-SRD-Equipment.json",
+      "count": 237,
+      "index": "索引/equipment.md",
+      "entry_directory": "条目/equipment"
+    },
+    "feats": {
+      "display_name": "专长",
+      "source_file": "5e-SRD-Feats.json",
+      "count": 1,
+      "index": "索引/feats.md",
+      "entry_directory": "条目/feats"
+    },
+    "features": {
+      "display_name": "职业特性",
+      "source_file": "5e-SRD-Features.json",
+      "count": 407,
+      "index": "索引/features.md",
+      "entry_directory": "条目/features"
+    },
+    "languages": {
+      "display_name": "语言",
+      "source_file": "5e-SRD-Languages.json",
+      "count": 16,
+      "index": "索引/languages.md",
+      "entry_directory": "条目/languages"
+    },
+    "levels": {
+      "display_name": "职业等级",
+      "source_file": "5e-SRD-Levels.json",
+      "count": 290,
+      "index": "索引/levels.md",
+      "entry_directory": "条目/levels"
+    },
+    "magic-items": {
+      "display_name": "魔法物品",
+      "source_file": "5e-SRD-Magic-Items.json",
+      "count": 362,
+      "index": "索引/magic-items.md",
+      "entry_directory": "条目/magic-items"
+    },
+    "magic-schools": {
+      "display_name": "法术学派",
+      "source_file": "5e-SRD-Magic-Schools.json",
+      "count": 8,
+      "index": "索引/magic-schools.md",
+      "entry_directory": "条目/magic-schools"
+    },
+    "monsters": {
+      "display_name": "怪物",
+      "source_file": "5e-SRD-Monsters.json",
+      "count": 334,
+      "index": "索引/monsters.md",
+      "entry_directory": "条目/monsters"
+    },
+    "proficiencies": {
+      "display_name": "熟练",
+      "source_file": "5e-SRD-Proficiencies.json",
+      "count": 117,
+      "index": "索引/proficiencies.md",
+      "entry_directory": "条目/proficiencies"
+    },
+    "races": {
+      "display_name": "种族",
+      "source_file": "5e-SRD-Races.json",
+      "count": 9,
+      "index": "索引/races.md",
+      "entry_directory": "条目/races"
+    },
+    "rule-sections": {
+      "display_name": "规则章节",
+      "source_file": "5e-SRD-Rule-Sections.json",
+      "count": 33,
+      "index": "索引/rule-sections.md",
+      "entry_directory": "条目/rule-sections"
+    },
+    "rules": {
+      "display_name": "规则原文索引",
+      "source_file": "5e-SRD-Rules.json",
+      "count": 6,
+      "index": "索引/rules.md",
+      "entry_directory": "条目/rules"
+    },
+    "skills": {
+      "display_name": "技能",
+      "source_file": "5e-SRD-Skills.json",
+      "count": 18,
+      "index": "索引/skills.md",
+      "entry_directory": "条目/skills"
+    },
+    "spells": {
+      "display_name": "法术",
+      "source_file": "5e-SRD-Spells.json",
+      "count": 319,
+      "index": "索引/spells.md",
+      "entry_directory": "条目/spells"
+    },
+    "subclasses": {
+      "display_name": "子职业",
+      "source_file": "5e-SRD-Subclasses.json",
+      "count": 12,
+      "index": "索引/subclasses.md",
+      "entry_directory": "条目/subclasses"
+    },
+    "subraces": {
+      "display_name": "亚种",
+      "source_file": "5e-SRD-Subraces.json",
+      "count": 4,
+      "index": "索引/subraces.md",
+      "entry_directory": "条目/subraces"
+    },
+    "traits": {
+      "display_name": "种族特性",
+      "source_file": "5e-SRD-Traits.json",
+      "count": 38,
+      "index": "索引/traits.md",
+      "entry_directory": "条目/traits"
+    },
+    "weapon-properties": {
+      "display_name": "武器属性",
+      "source_file": "5e-SRD-Weapon-Properties.json",
+      "count": 11,
+      "index": "索引/weapon-properties.md",
+      "entry_directory": "条目/weapon-properties"
+    }
+  },
+  "total_entries": 2317
+}

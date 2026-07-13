@@ -1,0 +1,13 @@
+{
+  "index": "skill-nature",
+  "type": "Skills",
+  "name": "Skill: Nature",
+  "classes": [],
+  "races": [],
+  "url": "/api/2014/proficiencies/skill-nature",
+  "reference": {
+    "index": "nature",
+    "name": "Nature",
+    "url": "/api/2014/skills/nature"
+  }
+}

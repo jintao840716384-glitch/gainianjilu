@@ -1,0 +1,13 @@
+{
+  "index": "dulcimer",
+  "type": "Musical Instruments",
+  "name": "Dulcimer",
+  "classes": [],
+  "races": [],
+  "url": "/api/2014/proficiencies/dulcimer",
+  "reference": {
+    "index": "dulcimer",
+    "name": "Dulcimer",
+    "url": "/api/2014/equipment/dulcimer"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "index": "shortbows",
+  "type": "Weapons",
+  "name": "Shortbows",
+  "classes": [],
+  "races": [
+    {
+      "index": "high-elf",
+      "name": "High Elf",
+      "url": "/api/2014/subraces/high-elf"
+    }
+  ],
+  "url": "/api/2014/proficiencies/shortbows",
+  "reference": {
+    "index": "shortbow",
+    "name": "Shortbow",
+    "url": "/api/2014/equipment/shortbow"
+  }
+}

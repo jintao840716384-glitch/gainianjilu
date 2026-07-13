@@ -1,0 +1,22 @@
+{
+  "level": 3,
+  "features": [
+    {
+      "index": "improved-critical",
+      "name": "Improved Critical",
+      "url": "/api/2014/features/improved-critical"
+    }
+  ],
+  "class": {
+    "index": "fighter",
+    "name": "Fighter",
+    "url": "/api/2014/classes/fighter"
+  },
+  "subclass": {
+    "index": "champion",
+    "name": "Champion",
+    "url": "/api/2014/subclasses/champion"
+  },
+  "url": "/api/2014/subclasses/champion/levels/3",
+  "index": "champion-3"
+}

@@ -1,0 +1,13 @@
+{
+  "index": "water-vehicles",
+  "type": "Vehicles",
+  "name": "Water Vehicles",
+  "classes": [],
+  "races": [],
+  "url": "/api/2014/proficiencies/water-vehicles",
+  "reference": {
+    "index": "waterborne-vehicles",
+    "name": "Waterborne Vehicles",
+    "url": "/api/2014/equipment-categories/waterborne-vehicles"
+  }
+}
