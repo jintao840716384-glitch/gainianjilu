@@ -17,6 +17,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any
 
+SYNC_SCHEMA_VERSION = 1
 ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / "02_规则内容库"
 ENTRY_ROOT = OUT / "条目"
@@ -125,6 +126,7 @@ def main() -> None:
     INDEX_ROOT.mkdir(parents=True, exist_ok=True)
 
     manifest: dict[str, Any] = {
+        "schema_version": SYNC_SCHEMA_VERSION,
         "ruleset": "D&D 5e (2014)",
         "baseline": "SRD 5.1",
         "generated_at_utc": datetime.now(timezone.utc).replace(microsecond=0).isoformat(),
